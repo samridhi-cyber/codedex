@@ -1,2 +1,2 @@
 # codedex
-all the code that i learn in codedex
+All the codes from codedex.
